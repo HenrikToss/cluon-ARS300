@@ -3,3 +3,4 @@ streamz
 pycluon
 python-can
 cantools
+canlib
